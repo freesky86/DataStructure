@@ -1,1 +1,2 @@
 This is the first line for note.txt
+add from dev
